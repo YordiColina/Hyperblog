@@ -1,0 +1,25 @@
+body {
+    color: deeppink;
+    text-align: center;
+    font-family: "Arial";
+}
+
+#cabecera {
+    background: #33a;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+}
+
+#Container {
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+#Container h1 {
+    font-size: 20px;
+}
